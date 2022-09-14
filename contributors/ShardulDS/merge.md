@@ -1,1 +1,1 @@
-More content to conflict
+Content to merge
